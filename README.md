@@ -2,6 +2,11 @@
 
 Este projeto demonstra a criação de uma aplicação fullstack para gerenciamento de um cardápio digital, permitindo a listagem e adição de novos itens. O backend é desenvolvido com Java Spring Boot e o frontend com React. A persistência de dados é realizada utilizando PostgreSQL, gerenciado via Docker, e a validação das APIs é feita com Postman.
 
+<img width="1845" height="882" alt="image" src="https://github.com/user-attachments/assets/8e14e9a6-13c8-428b-a7fb-a79e4906df1b" />
+<img width="1845" height="882" alt="image" src="https://github.com/user-attachments/assets/47bc120e-1190-49d3-92fd-2fc3b62722ad" />
+<img width="1837" height="863" alt="image" src="https://github.com/user-attachments/assets/8d07cde3-86b4-4c3b-a047-451dd279753d" />
+
+
 ## Tecnologias Utilizadas
 
 ### Backend
@@ -92,4 +97,3 @@ Dentro do terminal `psql`, você pode usar comandos como:
    ```
 
    A aplicação estará disponível em `http://localhost:5173`.
-
